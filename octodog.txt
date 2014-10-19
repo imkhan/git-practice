@@ -1,7 +1,9 @@
-this is file is for octodogs
+This file is for octodogs.
 
-git practice -- -- --
+---------------------------
+       Git practice
+---------------------------
 
 New feature added !!!
 
-this is line is put after the pull request
+This line is put after the pull request.
